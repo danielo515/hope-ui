@@ -1,15 +1,8 @@
-<p align="center">
-  <a href="https://hope-ui.netlify.app">
-    <img
-      alt="Hope UI | The SolidJS component library you've hoped for."
-      src="./assets/banner.jpg" 
-    />
-  </a>
-</p>
+# Hope UI (Legacy project)
 
-# ⚠️ WARNING ⚠️
+## ⚠️ WARNING ⚠️
 
-Hope UI is no longer maintained.
+Hope UI v0.x (this repo) is no longer maintained. New project live at https://github.com/hope-ui/hope-ui.
 
 ## Acknowledgment
 
