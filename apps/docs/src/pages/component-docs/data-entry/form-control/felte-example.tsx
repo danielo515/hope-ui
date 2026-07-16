@@ -40,7 +40,7 @@ export function FelteExample() {
     <VStack as="form" ref={form} spacing="$5" alignItems="stretch" maxW="$96" mx="auto">
       <FormControl required invalid={!!errors("email")}>
         <FormLabel>Email</FormLabel>
-        <Input type="email" name="email" placeholder="contact@hope-ui.com" />
+        <Input type="email" name="email" placeholder="contact@hope-ui.dev" />
         <FormErrorMessage>{errors("email")[0]}</FormErrorMessage>
       </FormControl>
       <FormControl required invalid={!!errors("jobTitle")}>

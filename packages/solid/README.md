@@ -4,7 +4,7 @@ A composable and accessible component library that gives you the foundation to b
 
 ## Documentation
 
-For full documentation, visit [hope-ui.com](https://hope-ui.com/).
+For full documentation, visit [hope-ui.dev](https://hope-ui.dev/).
 
 ## Installation
 

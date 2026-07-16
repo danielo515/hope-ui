@@ -2,7 +2,7 @@ const importComponent = `import { Anchor } from "@hope-ui/solid"`;
 
 const basicUsage = `<Anchor>Hope UI</Anchor>`;
 
-const externalLink = `<Anchor href="https://hope-ui.com" external>
+const externalLink = `<Anchor href="https://hope-ui.dev" external>
   Hope UI <IconExternalLink ml="2px" verticalAlign="text-bottom" />
 </Anchor>`;
 

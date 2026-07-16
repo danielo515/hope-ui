@@ -70,7 +70,7 @@ export default function AnchorDoc() {
         Use the <Code>external</Code> prop to open the link in a new tab.
       </Text>
       <Preview snippet={snippets.externalLink} mb="$10">
-        <Anchor href="https://hope-ui.com" external>
+        <Anchor href="https://hope-ui.dev" external>
           Hope UI <IconExternalLink ml="2px" verticalAlign="text-bottom" />
         </Anchor>
       </Preview>

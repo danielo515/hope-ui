@@ -133,7 +133,7 @@ export function FelteExample() {
     >
       <FormControl required invalid={!!errors("email")}>
         <FormLabel>Email</FormLabel>
-        <Input type="email" name="email" placeholder="contact@hope-ui.com" />
+        <Input type="email" name="email" placeholder="contact@hope-ui.dev" />
         <FormErrorMessage>{errors("email")[0]}</FormErrorMessage>
       </FormControl>
       <FormControl required invalid={!!errors("jobTitle")}>
